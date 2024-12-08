@@ -1,0 +1,5 @@
+selenium
+python-dotenv
+gologin
+webdriver-manager
+chromedriver_autoinstaller
